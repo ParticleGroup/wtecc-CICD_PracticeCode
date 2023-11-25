@@ -4,7 +4,7 @@
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
 This repository contains the practice code for the labs in **IBM-CD0215EN-SkillsNetwork Introduction to CI/CD**
-
+ 
 ## Contents
 
 - Lab 1: [Build an empty Pipeline](labs/01_base_pipeline/README.md)
